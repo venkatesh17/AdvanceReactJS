@@ -1,0 +1,26 @@
+.todoWebhooks {
+    background-color: aqua;
+    padding: 20px;
+}
+
+.todolist {
+    width: 100%;
+    display: flex;
+    padding: 3px;
+}
+
+.todolist p {
+    width: 20%;
+    margin: 0;
+}
+
+.todolist button {
+    width: auto;
+    height: fit-content;
+    margin-left: 3px;  
+}
+
+.inputhooks {
+    padding: 5px;
+    width: 10%;
+}
